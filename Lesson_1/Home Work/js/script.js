@@ -5,10 +5,10 @@
 // Скопіюйте значення зі змінної name в city.
 // Виведіть значення змінної city, використовуючи функцію console.log (яка повинна показати “Іван”).
 
-let name = "Іван";
-let city = "Kyiv";
-city = name;
-console.log(city);
+// let name = "Іван";
+// let city = "Kyiv";
+// city = name;
+// console.log(city);
 
 //***2***
 //Який буде результат виконання скрипта?
