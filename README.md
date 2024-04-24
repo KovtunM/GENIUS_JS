@@ -1,1 +1,3 @@
-# My first commit GENIUS_JS
+# My commit GENIUS_JS
+
+![alt text](img.png)
